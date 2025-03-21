@@ -43,7 +43,7 @@ li{list-style: none;}
 }
 .black-nav  a{
   color: #B0B0B0;}
-  i{font-style: normal;}
+  .black-nav .wrap .black-nav-right .car .iconfont{font-style: normal;}
   .cat-icon{
     width: 20px;
     height: 20px;
