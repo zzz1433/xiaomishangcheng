@@ -1,0 +1,16 @@
+{
+  "id": "4864069",
+  "name": "我的",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "25950",
+      "name": "小箭头",
+      "font_class": "xiaojiantou",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
